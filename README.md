@@ -81,7 +81,7 @@ Endpoint	                        Method	   Description
 /api/v1/auth/login	              POST	     Login to the system
 /api/v1/auth/register	            POST	     Register a new user
 
-Technologies Used
+Technologies Used:
 	Backend: Node.js, Express.js
 	Database: MySQL
 	Authentication: JSON Web Tokens (JWT)
